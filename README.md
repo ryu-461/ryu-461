@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryu-461&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryu-461)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ryu-461/ryu-461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
