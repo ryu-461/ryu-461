@@ -1,5 +1,7 @@
 ## welcome to mypage！！
 
+Iam Fledgling Frontend Engineer...
+
 <!--
 **ryu-461/ryu-461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
