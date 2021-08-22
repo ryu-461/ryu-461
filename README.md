@@ -1,4 +1,4 @@
-# Welcome to mypage！
+# Welcome to mypage
 
 Iam Fledgling Frontend Engineer...
 
